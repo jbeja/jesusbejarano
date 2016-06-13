@@ -1,13 +1,11 @@
 html, body {
   width: 100%;
   height: 100%;
-  vw: 100;
-  vh: 100;
+  width:    100vw;
+  height:  100hv;
   position: relative;
   font: normal normal 100% Roboto, sans-serif;
   box-sizing: border-box;
-  background: -webkit-linear-gradient(top, #039be5 400px, white 400px);
-  background: -moz-linear-gradient(top, #039be5 400px, white 400px);
   background: linear-gradient(top, #039be5 400px, white 400px);
   display: table;
   color: rgba(38, 50, 56, 1);
