@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jesús Bejarano. Web designer and developer,</title>
-    <link>/</link>
+    <link>https://jbeja.github.io/jesusbejarano/</link>
     <description>Recent content on Jesús Bejarano. Web designer and developer,</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ve</language>
     <copyright>&lt;p&gt;Website developed and designed by &lt;strong&gt;Jesús Bejarano&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Currently under construction&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;&amp;copy;&amp;nbsp;2016 Jesús Bejarano. All rights reserved.&lt;/small&gt;&lt;/p&gt;</copyright>
     <lastBuildDate>Thu, 02 Jun 2016 09:36:53 -0430</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jbeja.github.io/jesusbejarano/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Necoyoad</title>
-      <link>/sample/necotienda/</link>
+      <link>https://jbeja.github.io/jesusbejarano/sample/necotienda/</link>
       <pubDate>Thu, 02 Jun 2016 09:36:53 -0430</pubDate>
       
-      <guid>/sample/necotienda/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/sample/necotienda/</guid>
       <description>
 
 &lt;h3 id=&#34;necotienda:edd19aae3303c2b4581af9a89671213c&#34;&gt;Necotienda&lt;/h3&gt;
@@ -32,16 +32,16 @@
 
 &lt;div class=&#34;row&#34;&gt;
     &lt;figure class=&#34;column&#34;&gt;
-        &lt;img class=&#34;rise&#34; src=&#34;/img/sample/necoyoad/captura-necotienda-home.png&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/img/sample/necoyoad/captura-necotienda-home.png&#34;&gt;
     &lt;/figure&gt;
     &lt;figure class=&#34;column medium-6&#34;&gt;
-        &lt;img class=&#34;rise&#34; src=&#34;/img/sample/necoyoad/captura-necotienda-product-view.png&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/img/sample/necoyoad/captura-necotienda-product-view.png&#34;&gt;
     &lt;/figure&gt;
     &lt;figure class=&#34;column medium-6&#34;&gt;
-        &lt;img class=&#34;rise&#34; src=&#34;/img/sample/necoyoad/captura-necotienda-quickview.png&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/img/sample/necoyoad/captura-necotienda-quickview.png&#34;&gt;
     &lt;/figure&gt;
     &lt;figure class=&#34;column&#34;&gt;
-        &lt;img class=&#34;rise&#34; src=&#34;/img/sample/necoyoad/captura-necotienda-wizard.png&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/img/sample/necoyoad/captura-necotienda-wizard.png&#34;&gt;
     &lt;/figure&gt;
 
 &lt;/div&gt;
@@ -50,28 +50,28 @@
     
     <item>
       <title>phcomputer.com.ve</title>
-      <link>/sample/phcomputer.com.ve/</link>
+      <link>https://jbeja.github.io/jesusbejarano/sample/phcomputer.com.ve/</link>
       <pubDate>Thu, 12 May 2016 10:58:45 -0430</pubDate>
       
-      <guid>/sample/phcomputer.com.ve/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/sample/phcomputer.com.ve/</guid>
       <description></description>
     </item>
     
     <item>
       <title>newarrival.com.ve</title>
-      <link>/sample/newarrival.com.ve/</link>
+      <link>https://jbeja.github.io/jesusbejarano/sample/newarrival.com.ve/</link>
       <pubDate>Thu, 12 May 2016 10:57:20 -0430</pubDate>
       
-      <guid>/sample/newarrival.com.ve/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/sample/newarrival.com.ve/</guid>
       <description></description>
     </item>
     
     <item>
       <title>julietalinares.com</title>
-      <link>/sample/julietalinares.com/</link>
+      <link>https://jbeja.github.io/jesusbejarano/sample/julietalinares.com/</link>
       <pubDate>Thu, 12 May 2016 09:46:05 -0430</pubDate>
       
-      <guid>/sample/julietalinares.com/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/sample/julietalinares.com/</guid>
       <description>
 
 &lt;h1 id=&#34;levis-habebat-lacerti-frustra-miseros-bona-laboriferi:ff45a853875b825cff2dbfac9fb490c2&#34;&gt;Levis habebat lacerti frustra miseros bona laboriferi&lt;/h1&gt;
@@ -178,37 +178,37 @@ Pandione prolisque, ergo?&lt;/p&gt;
     
     <item>
       <title>hello wolrd</title>
-      <link>/2016/05/08/hello-wolrd/</link>
+      <link>https://jbeja.github.io/jesusbejarano/2016/05/08/hello-wolrd/</link>
       <pubDate>Sun, 08 May 2016 16:36:14 -0430</pubDate>
       
-      <guid>/2016/05/08/hello-wolrd/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/2016/05/08/hello-wolrd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>good to great</title>
-      <link>/2016/05/08/good-to-great/</link>
+      <link>https://jbeja.github.io/jesusbejarano/2016/05/08/good-to-great/</link>
       <pubDate>Sun, 08 May 2016 16:36:00 -0430</pubDate>
       
-      <guid>/2016/05/08/good-to-great/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/2016/05/08/good-to-great/</guid>
       <description></description>
     </item>
     
     <item>
       <title>services</title>
-      <link>/page/services/</link>
+      <link>https://jbeja.github.io/jesusbejarano/page/services/</link>
       <pubDate>Wed, 27 Apr 2016 15:16:24 -0430</pubDate>
       
-      <guid>/page/services/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/page/services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>/page/contact/</link>
+      <link>https://jbeja.github.io/jesusbejarano/page/contact/</link>
       <pubDate>Wed, 27 Apr 2016 15:10:05 -0430</pubDate>
       
-      <guid>/page/contact/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/page/contact/</guid>
       <description>
 
 &lt;h3 id=&#34;let-s-get-in-touch:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Let&amp;rsquo;s get in touch!&lt;/h3&gt;
@@ -224,10 +224,10 @@ Pandione prolisque, ergo?&lt;/p&gt;
     
     <item>
       <title>about</title>
-      <link>/page/about/</link>
+      <link>https://jbeja.github.io/jesusbejarano/page/about/</link>
       <pubDate>Wed, 27 Apr 2016 15:09:45 -0430</pubDate>
       
-      <guid>/page/about/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/page/about/</guid>
       <description>&lt;p&gt;My name is Jesús and I am originally from Venezuela. I am frontend web developer with more than 3 years of experience and highly skilled in web front-end technologies. I can develop fast, responsive, high quality &amp;amp; user friendly clients with your goals in mind.&lt;/p&gt;
 
 &lt;p&gt;Most of my experience resolve around working with e-commerce platform, developing dashboards for web apps and JavaScript plugins.&lt;/p&gt;
