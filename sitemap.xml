@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2016-06-02T09:36:53-04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sample/necotienda/</loc>
+    <lastmod>2016-06-02T09:36:53-04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sample/phcomputer.com.ve/</loc>
+    <lastmod>2016-05-12T10:58:45-04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sample/newarrival.com.ve/</loc>
+    <lastmod>2016-05-12T10:57:20-04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sample/julietalinares.com/</loc>
+    <lastmod>2016-05-12T09:46:05-04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/2016/05/08/hello-wolrd/</loc>
+    <lastmod>2016-05-08T16:36:14-04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/2016/05/08/good-to-great/</loc>
+    <lastmod>2016-05-08T16:36:00-04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/page/services/</loc>
+    <lastmod>2016-04-27T15:16:24-04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/page/contact/</loc>
+    <lastmod>2016-04-27T15:10:05-04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/page/about/</loc>
+    <lastmod>2016-04-27T15:09:45-04:30</lastmod>
+  </url>
+  
+</urlset>

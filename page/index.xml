@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Jesús Bejarano. Web designer and developer,</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on Jesús Bejarano. Web designer and developer,</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ve</language>
+    <copyright>&lt;p&gt;Website developed and designed by &lt;strong&gt;Jesús Bejarano&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Currently under construction&lt;/small&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;&amp;copy;&amp;nbsp;2016 Jesús Bejarano. All rights reserved.&lt;/small&gt;&lt;/p&gt;</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 15:16:24 -0430</lastBuildDate>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>services</title>
+      <link>http://localhost:1313/page/services/</link>
+      <pubDate>Wed, 27 Apr 2016 15:16:24 -0430</pubDate>
+      
+      <guid>http://localhost:1313/page/services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://localhost:1313/page/contact/</link>
+      <pubDate>Wed, 27 Apr 2016 15:10:05 -0430</pubDate>
+      
+      <guid>http://localhost:1313/page/contact/</guid>
+      <description>
+
+&lt;h3 id=&#34;let-s-get-in-touch:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Let&amp;rsquo;s get in touch!&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m currently available for freelance work. I would love to hear from you and your projects. If you want us to work together, please contact me through:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:bejaranojesus99@gmail.com&#34;&gt;&lt;strong&gt;bejaranojesus99@gmail.com&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;skype:nikola.vejin&#34;&gt;&lt;strong&gt;skype: jbejaweb&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Wed, 27 Apr 2016 15:09:45 -0430</pubDate>
+      
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;My name is Jesús and I am originally from Venezuela. I am frontend web developer with more than 3 years of experience and highly skilled in web front-end technologies. I can develop fast, responsive, high quality &amp;amp; user friendly clients with your goals in mind.&lt;/p&gt;
+
+&lt;p&gt;Most of my experience resolve around working with e-commerce platform, developing dashboards for web apps and JavaScript plugins.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
