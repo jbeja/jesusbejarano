@@ -6,7 +6,7 @@ html, body {
   position: relative;
   font: normal normal 100% Roboto, sans-serif;
   box-sizing: border-box;
-  background: linear-gradient(top, #039be5 400px, white 400px);
+  background-image: linear-gradient(top, #039be5 400px, white 400px);
   display: table;
   color: rgba(38, 50, 56, 1);
 }
