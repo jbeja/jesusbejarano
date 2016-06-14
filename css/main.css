@@ -704,6 +704,7 @@ svg {
     }
     #mobileNavigation {
         height: 3.125rem;
+        background: rgba(3, 155, 229, 1);
     }
     #mobileNavigation.inverse .hamburger > *::after,
     #mobileNavigation.inverse .hamburger > *::before,
