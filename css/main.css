@@ -793,11 +793,11 @@ svg {
     #navigation {
         top: 0;
         left: 0;
-        padding: 4rem;
         width: 100%;
         height: 100%;
         height: 100hv;
         background-color: white;
+        z-index: 9;
     }
     #navigation .top-bar-right svg {
         width: 1.125rem;
@@ -819,7 +819,7 @@ svg {
 
     #navigation .top-bar-right {
         position: absolute;
-        top: 20%;
+        top: 10rem;
         left: 50%;
         transform: translate(-50%, -50%);
     }
