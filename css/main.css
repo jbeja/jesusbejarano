@@ -299,10 +299,10 @@ svg {
     margin-top: 2.75rem;
 }
 .button-group .button:not(:last-child),
-.button-group.stacked-for-small .button:not(:last-child) {
+.button-group.stacked-for-small .button:not(:last-child),
+.button-group.stacked-for-small.share .button:not(:last-child) {
     margin-right: 0.335rem;
 }
-
 .rise,
 .button {
     box-shadow: 5px 5px rgba(84, 110, 122, .07);
