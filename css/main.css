@@ -296,16 +296,16 @@ svg {
 }
 
 .share.button-group:last-child {
-    margin-top: 3rem;
+    margin-top: 2.75rem;
 }
-
-.share.button-group .button:not(:last-child) {
-    margin-right: 0.725rem;
+.button-group .button:not(:last-child),
+.button-group.stacked-for-small .button:not(:last-child) {
+    margin-right: 0.335rem;
 }
 
 .rise,
 .button {
-    box-shadow: 5px 5px rgba(84, 110, 122, .05);
+    box-shadow: 5px 5px rgba(84, 110, 122, .07);
 }
 
 .button:focus {
@@ -703,6 +703,10 @@ svg {
 
 /* Small devices (landscape phones, less than 48em) */
 @media (max-width: 47.9em) {
+
+    .button-group.stacked-for-small .button:not(:first-child) {
+        margin-top: 0.335rem;
+    }
     .intro h1 {
         font-size: 2rem;
     }
