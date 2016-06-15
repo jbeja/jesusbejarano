@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Jesús Bejarano. Web designer and developer,</title>
+    <link>https://jbeja.github.io/jesusbejarano/es/page/</link>
+    <description>Recent content in Pages on Jesús Bejarano. Web designer and developer,</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;p&gt;Página web diseñada y desarrollada por &lt;strong&gt;Jesús Bejarano&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Actualmente en construcción&lt;/small&gt;.&lt;/p&gt;&lt;p&gt;&lt;small&gt;&amp;copy;&amp;nbsp;2016 Jesús Bejarano. Todos los derechos reservados.&lt;/small&gt;&lt;/p&gt;</copyright>
+    <lastBuildDate>Wed, 15 Jun 2016 11:10:55 -0430</lastBuildDate>
+    <atom:link href="https://jbeja.github.io/jesusbejarano/es/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contacto</title>
+      <link>https://jbeja.github.io/jesusbejarano/es/page/contact/</link>
+      <pubDate>Wed, 15 Jun 2016 11:10:55 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/es/page/contact/</guid>
+      <description>
+
+&lt;h3 id=&#34;pongamosnos-en-contacto:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Pongamosnos en contacto!&lt;/h3&gt;
+
+&lt;p&gt;Actualmente estoy disponible para trabajos freelance. Me encantaría saber de ti y de tus proyectos. Si deseas que trabajemos juntos, por favor contáctame vía:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:bejaranojesus99@gmail.com&#34;&gt;&lt;strong&gt;bejaranojesus99@gmail.com&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;skype:jbejaweb&#34;&gt;&lt;strong&gt;skype: jbejaweb&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>acerca</title>
+      <link>https://jbeja.github.io/jesusbejarano/es/page/about/</link>
+      <pubDate>Wed, 27 Apr 2016 15:09:45 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/es/page/about/</guid>
+      <description>&lt;p&gt;Mi nombre es Jesús y soy originario de Venezuela. Soy un desarrollador Front-End con más de 3 años de experiencia y estoy altamente capacitado en tecnologías para clientes Front-End. Puedo crear rápidas y amigables clientes de alta calidad con tus metas en mente.&lt;/p&gt;
+
+&lt;p&gt;La mayoría de mi experiencia se destaca trabajando con plataformas de tiendas virtuales, desarrollando tableros para aplicaciones web y plugins de Javascript.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

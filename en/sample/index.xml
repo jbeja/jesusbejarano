@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samples on Jesús Bejarano. Web designer and developer,</title>
+    <link>https://jbeja.github.io/jesusbejarano/en/sample/</link>
+    <description>Recent content in Samples on Jesús Bejarano. Web designer and developer,</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;p&gt;Website developed and designed by &lt;strong&gt;Jesús Bejarano&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Currently under construction&lt;/small&gt;.&lt;/p&gt;&lt;p&gt;&lt;small&gt;&amp;copy;&amp;nbsp;2016 Jesús Bejarano. All rights reserved.&lt;/small&gt;&lt;/p&gt;</copyright>
+    <lastBuildDate>Wed, 15 Jun 2016 10:33:01 -0430</lastBuildDate>
+    <atom:link href="https://jbeja.github.io/jesusbejarano/en/sample/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>necoyoad</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/sample/necoyoad/</link>
+      <pubDate>Wed, 15 Jun 2016 10:33:01 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/sample/necoyoad/</guid>
+      <description>
+
+&lt;h3 id=&#34;necotienda:02edadc00e06ec38241489ad3834e54b&#34;&gt;Necotienda&lt;/h3&gt;
+
+&lt;p&gt;I redesigned and rewrote the e-commerce front-end and its many default plugins. Most of the improvement of resolve around:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The overall UI/UX;&lt;/li&gt;
+&lt;li&gt;Better code quality and integrated development tools.&lt;/li&gt;
+&lt;li&gt;Improvements and bugs catching on the default plugins.&lt;/li&gt;
+&lt;li&gt;Faster page loads and dependency management.&lt;/li&gt;
+&lt;li&gt;Better feedback and improvements on accessibility.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+    &lt;figure class=&#34;column&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/necoyoad/captura-necotienda-home.png&#34;&gt;
+    &lt;/figure&gt;
+    &lt;figure class=&#34;column medium-6&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/necoyoad/captura-necotienda-product-view.png&#34;&gt;
+    &lt;/figure&gt;
+    &lt;figure class=&#34;column medium-6&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/necoyoad/captura-necotienda-quickview.png&#34;&gt;
+    &lt;/figure&gt;
+    &lt;figure class=&#34;column&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/necoyoad/captura-necotienda-wizard.png&#34;&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>phcomputer.com.ve</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/sample/phcomputer.com.ve/</link>
+      <pubDate>Wed, 15 Jun 2016 10:17:57 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/sample/phcomputer.com.ve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>newarrival.net.ve</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/sample/newarrival.net.ve/</link>
+      <pubDate>Wed, 15 Jun 2016 10:10:22 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/sample/newarrival.net.ve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>julietalinares.com</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/sample/julietalinares.com/</link>
+      <pubDate>Wed, 15 Jun 2016 10:04:00 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/sample/julietalinares.com/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
