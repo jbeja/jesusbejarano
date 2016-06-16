@@ -23,7 +23,7 @@
 &lt;p&gt;I redesigned and rewrote the e-commerce front-end and its many default plugins. Most of the improvement of resolve around:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;The overall UI/UX;&lt;/li&gt;
+&lt;li&gt;The overall UI/UX.&lt;/li&gt;
 &lt;li&gt;Better code quality and integrated development tools.&lt;/li&gt;
 &lt;li&gt;Improvements and bugs catching on the default plugins.&lt;/li&gt;
 &lt;li&gt;Faster page loads and dependency management.&lt;/li&gt;
