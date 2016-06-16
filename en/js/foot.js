@@ -1,29 +1,5 @@
 (function () {
     "use strict";
-    var doc = document;
-    var head = doc.head;
-    function fetchToBody(path) {
-        var body = document.body;
-        var ajax = new XMLHttpRequest();
-        ajax.open("GET", path, true);
-        ajax.responseType = "document";
-        ajax.send();
-        ajax.onload = function (e) {
-            try {
-                var svg = ajax.responseXML.documentElement;
-                svg.style.display = "none";
-                body.insertBefore(svg, body.childNodes[0]);
-            } catch (e) {
-                console.log(e);
-            }
-        };
-    }
-    fetchToBody(Hugo.Site.BaseURL + "svg/build/symbol/svg/sprite.symbol.svg");
-})();
-
-
-(function () {
-    "use strict";
     var dom = {
         $nav: $("#navigation"),
         $mobileNav: $("#mobileNavigation"),
