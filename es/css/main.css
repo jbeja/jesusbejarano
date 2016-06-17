@@ -577,29 +577,32 @@ svg {
     display: inline-block;
     vertical-align: top;
 }
+.sample figure::before,
+.sample .thumbnail-background::before {
+    opacity: 0.5;
+
+}
 .sample:nth-child(4n+ 1) figure::before,
 .sample:nth-child(4n+ 1) .thumbnail-background::before,
-.sample:nth-child(4n+ 1) .details::before {
-    color:  rgba(75, 119, 190, .4);
+.sample:nth-child(4n+ 1) .details {
+    color:  rgba(75, 119, 190, .8);
 }
 .sample:nth-child(4n+ 2) figure::before,
 .sample:nth-child(4n+ 2) .thumbnail-background::before,
-.sample:nth-child(4n+ 2) .details::before {
-    color: rgba(52, 152, 219, .4);
+.sample:nth-child(4n+ 2) .details {
+    color: rgba(52, 152, 219, .8);
 }
 .sample:nth-child(4n+ 3) figure::before,
 .sample:nth-child(4n+ 3) .thumbnail-background::before,
-.sample:nth-child(4n+ 3) .details::before {
-    color: rgba(22, 160, 133, .4);
+.sample:nth-child(4n+ 3) .details {
+    color: rgba(22, 160, 133, .8);
 }
 .sample:nth-child(4n+ 4) figure::before,
 .sample:nth-child(4n+ 4) .thumbnail-background::before,
-.sample:nth-child(4n+ 4) .details::before {
-    color: rgba(190, 144, 212, .4);
+.sample:nth-child(4n+ 4) .details {
+    color: rgba(190, 144, 212, .8);
 }
-
 .sample .details {
-    color: white;
     width: 100%;
     position: absolute;
     top: 50%;
@@ -621,12 +624,14 @@ svg {
     position: absolute;
 }
 .sample .details::before {
-    background-color: currentColor;
-
+    background-color: white;
 }
 .sample .details::after {
-    background-color: rgba(0, 0, 0, .15);
+    background-color: transparent;
     top: 42px;
+    border-top: 1px solid #e7e9ed;
+    left: 1.5rem;
+    right: 1.5rem;
 }
 .sample .details > * {
     padding: .75rem 1.5rem;
@@ -636,10 +641,6 @@ svg {
 }
 .sample .details > * + * {
     margin-top: .75rem;
-}
-
-.sample:hover figure::before {
-    opacity: 0.6;
 }
 .sample:hover .details {
     transform: translateY(0);
@@ -659,14 +660,12 @@ svg {
 .sample .details .body {
     transition-delay: 150ms;
 }
-
 .sample .details .title {
     text-transform: uppercase;
-    background: rgba(0, 0, 0, .2);
     margin-bottom: 0;
+    color: inherit;
 }
 .sample .details .body{
-    color: inherit;
     margin: 0;
     font-size: .825rem;
     transform: translateX(100%);

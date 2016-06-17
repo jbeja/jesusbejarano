@@ -95,27 +95,3 @@ window.MQ = Object.freeze({
             w.setMediaMobile(s);
     });
 })(document.getElementsByTagName('link'), window.document.styleSheets, window);
-
-(function() {
-    "use strict";
-    var doc = document;
-    var head = doc.head;
-
-    function fecthSVGToHead(path) {
-        var body = document.head;
-        var ajax = new XMLHttpRequest();
-        ajax.open("GET", path, true);
-        ajax.responseType = "document";
-        ajax.send();
-        ajax.onload = function(e) {
-            try {
-                var svg = ajax.responseXML.documentElement;
-                svg.style.display = "none";
-                body.insertBefore(svg, body.childNodes[body.childNodes.length - 1]);
-            } catch (e) {
-                console.log(e);
-            }
-        };
-    }
-    fecthSVGToHead(Hugo.Site.BaseURL + "svg/build/symbol/svg/sprite.symbol.svg");
-})();
