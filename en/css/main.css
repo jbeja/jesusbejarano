@@ -565,8 +565,12 @@ svg {
     display: block;
     z-index: 1;
     background-color: currentColor;
-    box-shadow: 0 0 6px 1px white;
+    box-shadow: 0 0 0px 0px white;
     opacity: 0;
+}
+
+.sample:hover figure::before {
+    box-shadow: 0 0 6px 1px white;
 }
 
 .sample .thumbnail {
