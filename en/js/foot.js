@@ -6,7 +6,7 @@
         $mobileNavTrigger: $("#mobileNavigationTrigger")
     };
     var $nav;
-    if (MQ.medium) {
+    if (!MQ.mediumUp) {
         $nav = dom.$mobileNav;
         var $trigger = dom.$mobileNavTrigger;
         $trigger.click(function (e) {
