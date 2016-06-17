@@ -6,7 +6,9 @@
         $mobileNavTrigger: $("#mobileNavigationTrigger")
     };
     var $nav;
-    if (!MQ.mediumUp) {
+    if ((MQ.mediumUp && MQ.large) || MQ.largeUp) {
+        $nav = dom.$nav;
+    } else {
         $nav = dom.$mobileNav;
         var $trigger = dom.$mobileNavTrigger;
         $trigger.click(function (e) {
@@ -15,8 +17,6 @@
             $trigger.toggleClass('in');
             $nav.toggleClass('in');
         });
-    } else {
-        $nav = dom.$nav;
     }
     var state = {
         scroll: {
