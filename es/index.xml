@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jesús Bejarano. Web designer and developer,</title>
-    <link>https://jbeja.github.io/jesusbejarano/es/</link>
-    <description>Recent content on Jesús Bejarano. Web designer and developer,</description>
+    <title></title>
+    <link>https://jbeja.github.io/jesusbejarano/es/index.xml</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&lt;p&gt;Página web diseñada y desarrollada por &lt;strong&gt;Jesús Bejarano&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Actualmente en construcción&lt;/small&gt;.&lt;/p&gt;&lt;p&gt;&lt;small&gt;&amp;copy;&amp;nbsp;2016 Jesús Bejarano. Todos los derechos reservados.&lt;/small&gt;&lt;/p&gt;</copyright>
+    <language>es</language>
     <lastBuildDate>Wed, 15 Jun 2016 11:10:55 -0430</lastBuildDate>
     <atom:link href="https://jbeja.github.io/jesusbejarano/es/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +17,7 @@
       <guid>https://jbeja.github.io/jesusbejarano/es/page/contact/</guid>
       <description>
 
-&lt;h3 id=&#34;pongamosnos-en-contacto:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Pongamosnos en contacto!&lt;/h3&gt;
+&lt;h3 id=&#34;pongamosnos-en-contacto&#34;&gt;Pongamosnos en contacto!&lt;/h3&gt;
 
 &lt;p&gt;Actualmente estoy disponible para trabajos freelance. Me encantaría saber de ti y de tus proyectos. Si deseas que trabajemos juntos, por favor contáctame vía:&lt;/p&gt;
 
@@ -37,7 +36,7 @@
       <guid>https://jbeja.github.io/jesusbejarano/es/sample/necoyoad/</guid>
       <description>
 
-&lt;h3 id=&#34;necotienda:02edadc00e06ec38241489ad3834e54b&#34;&gt;Necotienda&lt;/h3&gt;
+&lt;h3 id=&#34;necotienda&#34;&gt;Necotienda&lt;/h3&gt;
 
 &lt;p&gt;Rediseñe y reescribí el cliente de la plataforma para tiendas virtuales conocido como “Necotienda” y muchos de sus. La mayoría de las mejoras se destacan en:&lt;/p&gt;
 
@@ -51,16 +50,16 @@
 
 &lt;div class=&#34;row&#34;&gt;
     &lt;figure class=&#34;column&#34;&gt;
-        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/es/img/sample/necoyoad/captura-necotienda-home.png&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/img/sample/necoyoad/captura-necotienda-home.png&#34;&gt;
     &lt;/figure&gt;
     &lt;figure class=&#34;column medium-6&#34;&gt;
-        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/es/img/sample/necoyoad/captura-necotienda-product-view.png&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/img/sample/necoyoad/captura-necotienda-product-view.png&#34;&gt;
     &lt;/figure&gt;
     &lt;figure class=&#34;column medium-6&#34;&gt;
-        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/es/img/sample/necoyoad/captura-necotienda-quickview.png&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/img/sample/necoyoad/captura-necotienda-quickview.png&#34;&gt;
     &lt;/figure&gt;
     &lt;figure class=&#34;column&#34;&gt;
-        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/es/img/sample/necoyoad/captura-necotienda-wizard.png&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/img/sample/necoyoad/captura-necotienda-wizard.png&#34;&gt;
     &lt;/figure&gt;
 &lt;/div&gt;
 </description>
@@ -68,28 +67,28 @@
     
     <item>
       <title>phcomputer.com.ve</title>
-      <link>https://jbeja.github.io/jesusbejarano/es/sample/phcomputer.com.ve/</link>
+      <link>https://jbeja.github.io/jesusbejarano/es/sample/phcomputer.com/</link>
       <pubDate>Wed, 15 Jun 2016 10:17:53 -0430</pubDate>
       
-      <guid>https://jbeja.github.io/jesusbejarano/es/sample/phcomputer.com.ve/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/es/sample/phcomputer.com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>newarrival.net.ve</title>
-      <link>https://jbeja.github.io/jesusbejarano/es/sample/newarrival.net.ve/</link>
+      <link>https://jbeja.github.io/jesusbejarano/es/sample/newarrival.net/</link>
       <pubDate>Wed, 15 Jun 2016 10:10:26 -0430</pubDate>
       
-      <guid>https://jbeja.github.io/jesusbejarano/es/sample/newarrival.net.ve/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/es/sample/newarrival.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>julietalinares.com</title>
-      <link>https://jbeja.github.io/jesusbejarano/es/sample/julietalinares.com/</link>
+      <link>https://jbeja.github.io/jesusbejarano/es/sample/julietalinares/</link>
       <pubDate>Wed, 15 Jun 2016 10:03:51 -0430</pubDate>
       
-      <guid>https://jbeja.github.io/jesusbejarano/es/sample/julietalinares.com/</guid>
+      <guid>https://jbeja.github.io/jesusbejarano/es/sample/julietalinares/</guid>
       <description></description>
     </item>
     

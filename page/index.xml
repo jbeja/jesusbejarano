@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page-rsses on </title>
+    <link>https://jbeja.github.io/jesusbejarano/page/index.xml</link>
+    <description>Recent content in Page-rsses on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Apr 2016 15:10:05 -0430</lastBuildDate>
+    <atom:link href="https://jbeja.github.io/jesusbejarano/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contact</title>
+      <link>https://jbeja.github.io/jesusbejarano/page/contact/</link>
+      <pubDate>Wed, 27 Apr 2016 15:10:05 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/page/contact/</guid>
+      <description>
+
+&lt;h3 id=&#34;let-s-get-in-touch&#34;&gt;Let&amp;rsquo;s get in touch!&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m currently available for freelance work. I would love to hear from you and your projects. If you want us to work together, please contact me through:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:bejaranojesus99@gmail.com&#34;&gt;&lt;strong&gt;bejaranojesus99@gmail.com&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;skype:jbeja&#34;&gt;&lt;strong&gt;skype: jbejaweb&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://jbeja.github.io/jesusbejarano/page/about/</link>
+      <pubDate>Wed, 27 Apr 2016 15:09:45 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/page/about/</guid>
+      <description>&lt;p&gt;My name is Jesús and I am originally from Venezuela. I am frontend web developer with more than 3 years of experience and highly skilled in web front-end technologies. I can develop fast, responsive, high quality &amp;amp; user friendly clients with your goals in mind.&lt;/p&gt;
+
+&lt;p&gt;Most of my experience resolves working around popular CMS platforms, e-commerce platform, developing dashboards for web apps and JavaScript plugins.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
